@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\min2phaseNET\cs.min2phase\cs.min2phase.csproj" />
+    <ProjectReference Include="..\cs.cube555\cs.cube555.csproj" />
+  </ItemGroup>
+
+</Project>

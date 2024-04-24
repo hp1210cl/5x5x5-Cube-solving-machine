@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Design\\2024\\CubeSolver2024\\controller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8C4EB96-A4C3-4AB8-B027-1A414D007D44}|controller.vcxproj|E:\\My Design\\2024\\CubeSolver2024\\controller\\controller.ino||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A8C4EB96-A4C3-4AB8-B027-1A414D007D44}|controller.vcxproj|solutionrelative:controller.ino||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\arduino-1.8.19-windows\\portable\\sketchbook\\libraries\\TMC2209\\src\\TMC2209\\TMC2209.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TMC2209.cpp",
+              "DocumentMoniker": "D:\\arduino-1.8.19-windows\\portable\\sketchbook\\libraries\\TMC2209\\src\\TMC2209\\TMC2209.cpp",
+              "ToolTip": "D:\\arduino-1.8.19-windows\\portable\\sketchbook\\libraries\\TMC2209\\src\\TMC2209\\TMC2209.cpp",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAUwFcBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-04T11:51:36.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "controller.ino",
+              "DocumentMoniker": "E:\\My Design\\2024\\CubeSolver2024\\controller\\controller.ino",
+              "RelativeDocumentMoniker": "controller.ino",
+              "ToolTip": "E:\\My Design\\2024\\CubeSolver2024\\controller\\controller.ino",
+              "RelativeToolTip": "controller.ino",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAMwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-02T09:47:53.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

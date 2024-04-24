@@ -1,0 +1,2 @@
+﻿E:\My Design\2024\CubeSolver2024\controller\controller.vcxproj(49,3): warning MSB4011: 无法再次导入“C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Default.props”。可能已在“E:\My Design\2024\CubeSolver2024\controller\controller.vcxproj (33,3)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\Linux.targets(160,5): error : 没有远程计算机被配置用于远程生成。请使用“工具”|“选项”|“跨平台”|“连接管理器”配置计算机。
